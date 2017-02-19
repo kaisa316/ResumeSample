@@ -53,7 +53,25 @@
 	
 	主要技术：`LAMP,JQuery,Html,CSS`
 
-	项目职责：主要开发了预订餐模块、客户模块以及对应的短信管理模块
+	项目职责：主要开发了预订餐模块、客户模块以及对应的短信管理模块  
 
+	项目业绩： 圆满的实现了需求，顺利收回客户承诺的30万尾款
 
-	
+### 中科软科技股份有限公司
++ PICC个险销售支持系统
+
+	主要技术：`Java,Structs,Spring,Hibernate,Oracle,Weblogic9.2`
+
+	项目职责：负责事务提醒、保单信息模块的开发
+
+### 专业技能
+
+以下均为我熟练使用的技能
+
+- PHP/Laravel框架/Smarty模板
+- Mysql及其优化/Redis/Memcached
+- Linux下的日常工作，熟练的运用Vim进行开发
+- HTML/CSS/JavaScript/JQuery/Bootstrap
+- chrome、firebug调试工具
+- SVN，Git版本控制工具
+- Sphinx技术
